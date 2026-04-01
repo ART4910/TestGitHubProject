@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::count <<
+	std::count << "Hello, Git";
 		return 0;
 }
